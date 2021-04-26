@@ -16,7 +16,7 @@
     "xstate": "^4.18.0"
   },
   "files": [
-    "rollup-plugin-lucy.js"
+    "rollup-plugin-lucy.mjs"
   ],
   "scripts": {
     "test": "rollup -c rollup.config.mjs example.js",
