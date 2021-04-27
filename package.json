@@ -3,7 +3,7 @@
   "version": "0.1.3",
   "description": "Rollup plugin for Lucy",
   "main": "rollup-plugin-lucy.mjs",
-  "exports": "rollup-plugin-lucy.mjs",
+  "exports": "./rollup-plugin-lucy.mjs",
   "dependencies": {
     "@lucy/liblucy": "^0.1.2"
   },
